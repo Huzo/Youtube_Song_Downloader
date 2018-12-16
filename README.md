@@ -1,2 +1,1 @@
-# Youtube_Song_Downloader
-A python script to download songs extracted from Youtube
+## A program to download your favorite songs from YouTube in .mp3 form. 
